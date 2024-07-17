@@ -1,6 +1,10 @@
-![isodar-logo-withdesc-cropped](https://github.com/user-attachments/assets/3201ee1e-35ae-4b1e-915b-74c68646970d)
+<img width="1136" alt="isodar-logo-whitebackground" src="https://github.com/user-attachments/assets/2f44fc33-ade6-4044-94cf-48a8a06dd9c4">
 
-Welcome to IsoDAR's GitHub!
+---
+
+### Welcome to IsoDAR's GitHub!
+
+Here, you can find us collaborating on projects and share code. Keep an eye on this page as we publish our codebase to explore our repositories and engage with our team.
 
 <!--
 
