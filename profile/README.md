@@ -1,4 +1,6 @@
-## Hi there 👋
+![isodar-logo-withdesc-cropped](https://github.com/user-attachments/assets/3201ee1e-35ae-4b1e-915b-74c68646970d)
+
+Welcome to IsoDAR's GitHub!
 
 <!--
 
